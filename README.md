@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 👯 I am working at Microsoft(base Copenhagen-Denmark) as a part-time student worker.
 - 🌱 I’m currently focusing on compiler(for biochips) and the application of artificial intelligence（ this is what my master thesis related to). 
 - 🤔 I also tried to apply AI in autonomous driving and real-time object detection of depth-based image. 
+- 👯 I have real-world working experience of backend, database(MySQL), data immigration(Nifi+Kafka).
 - 📫 You are welcome to reach me from [linkedin](https://www.linkedin.com/in/wenjie-fan-b0b05620b/). 
 
 
