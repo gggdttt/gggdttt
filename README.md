@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m a student at DTU(Technical University of Denamrk) and studying for my master degree of Computer Science and Engineering. 
 - 👯 I am working at Microsoft(base Copenhagen-Denmark) as a part-time student worker. And I will start my new position as a FTE in Microsoft this April :) 
 - 🌱 I’m currently focusing on compiler(for biochips operations) and the application of artificial intelligence(this is what my master thesis related). 
 - 🤔 I also tried to apply AI in autonomous driving and real-time object detection of depth-based image. 
