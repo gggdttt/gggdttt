@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 👯 I am working at Microsoft(base Copenhagen-Denmark) as a part-time student worker. And I will start my new position as a FTE in Microsoft this April :) 
+- 👯 I am working at Microsoft (base Copenhagen-Denmark) as a part-time student worker. And I will start my new position as a FTE in Microsoft this April :) 
 - 🌱 I’m currently focusing on compiler(for biochips operations) and the application of artificial intelligence(this is what my master thesis related). 
 - 🤔 I also tried to apply AI in autonomous driving and real-time object detection of depth-based image. 
 - 👯 I have real-world working experience of backend, database(MySQL), data immigration(Nifi+Kafka).
