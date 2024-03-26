@@ -4,7 +4,7 @@
 **gggdttt/gggdttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m a student of DTU(Technical University of Denamrk) and studying for my master degree of Computer Science and Engineering. I am working at Microsoft(base Copenhagen-Denmark) as a part-time student worker.
+- 🔭 I am working at Microsoft(base Copenhagen-Denmark).
 - 🌱 I’m currently focusing on compiler and artificial intelligence.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 👯 I am working at Microsoft (base Copenhagen-Denmark) as a part-time student worker. And I will start my new position as a FTE in Microsoft this April :) 
-- 🌱 I’m currently focusing on compiler(for biochips operations) and the application of artificial intelligence(this is what my master thesis related). 
+- 👯 I am working at Microsoft(base Copenhagen-Denmark).
+- 🌱 My study area is more related to compiler(for biochips operations) and the application of artificial intelligence(this is what my master thesis related). 
 - 🤔 I also tried to apply AI in autonomous driving and real-time object detection of depth-based image. 
 - 👯 I have real-world working experience of backend, database(MySQL), data immigration(Nifi+Kafka).
 - 📫 You are welcome to reach me from [linkedin](https://www.linkedin.com/in/wenjie-fan-b0b05620b/). 
